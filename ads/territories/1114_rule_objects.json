@@ -126,6 +126,31 @@
                       "WaitAtDestinationSeconds":  0,
                       "WaitAfterInteractSeconds":  0,
                       "Notes":  ""
-                  }
+                  },
+    {
+      "Enabled": true,
+      "TerritoryTypeId": 1114,
+      "ContentFinderConditionId": 219,
+      "DutyEnglishName": "Baelsar\u0027s Wall",
+      "Alliance": null,
+      "ObjectKind": "EventObj",
+      "BaseId": 0,
+      "ObjectName": "Imperial Identification Key",
+      "NameMatchMode": "Exact",
+      "Classification": "Required",
+      "DestinationType": "",
+      "Layer": "The Walk",
+      "MapCoordinates": "",
+      "WorldCoordinates": "",
+      "ObjectMapCoordinates": "",
+      "ObjectWorldCoordinates": "",
+      "ObjectMatchRadius": null,
+      "Priority": 999,
+      "PriorityVerticalRadius": 0,
+      "MaxDistance": null,
+      "WaitAtDestinationSeconds": 0,
+      "WaitAfterInteractSeconds": 0,
+      "Notes": "Seeded from Object Explorer at 326.4,168.9,230.7 on layer The Walk. Observed BaseId 2007569. Object XYZ pin disabled. Auto classification left blank."
+    }
               ]
 }
